@@ -1,0 +1,11 @@
+{
+    "name": "com.hanachiru.samplepackage",
+    "displayName": "Sample Package",
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "description": "Sample Package.",
+    "keywords": [],
+    "license": "MIT",
+    "category": "library",
+    "dependencies": {}
+}
